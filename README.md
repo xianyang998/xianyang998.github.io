@@ -1,6 +1,6 @@
-# xianyang.github.io
+# xianyang998.github.io
 
-学术主页（纯静态 HTML），对应仓库 `xianyang998/xianyang.github.io`，上线地址：`https://xianyang998.github.io`
+学术主页（纯静态 HTML），对应仓库 `xianyang998/xianyang998.github.io`，上线地址：`https://xianyang998.github.io/`
 
 ## 当前状态
 
@@ -21,7 +21,7 @@
 仓库已存在且为空，任选一种方式上传：
 
 **方式 A：网页上传**
-1. 打开 https://github.com/xianyang998/xianyang.github.io
+1. 打开 https://github.com/xianyang998/xianyang998.github.io
 2. Add file → Upload files → 上传 `index.html` → Commit
 3. Settings → Pages → Source 选 `Deploy from a branch`，Branch `main` / `(root)` → Save
 
@@ -31,7 +31,7 @@ cd xianyang.github.io
 git init
 git add .
 git commit -m "init homepage"
-git remote add origin https://github.com/xianyang998/xianyang.github.io.git
+git remote add origin https://github.com/xianyang998/xianyang998.github.io.git
 git push -u origin main
 ```
 
